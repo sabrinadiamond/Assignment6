@@ -1,0 +1,40 @@
+body{
+	background: yellow linear-gradient(to bottom, #ebdbff, #8f66c4);
+}
+div{
+	background-color:lightblue;
+	width:40%;
+	height:100px;
+	margin:25px;
+	padding:25px;
+	border:solid grey 1px;
+}
+
+#divOne{
+	position:relative;left:300px;
+	text-align: left;
+}
+
+#divTwo{
+	display: inline-block; margin:auto;
+	text-align: left;
+}
+
+#divThree{
+	display: inline-block;
+	text-align: left;
+}
+
+#divFour{
+	position: relative;right:25px;
+	text-align: left;
+}
+
+#divFive{
+	background-color: lightgreen;
+	width:20px;
+	height:20px;
+	padding: 0px;
+	margin:0px;
+	position: relative;bottom:47px;left:525px;
+}
